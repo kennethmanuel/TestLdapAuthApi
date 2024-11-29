@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "LdapSettings": {
+    "ServerAddress": "<192.168.100.100>",
+    "BaseDn": "<OU=Users,DC=contoso,DC=local>"
+  }
+}
